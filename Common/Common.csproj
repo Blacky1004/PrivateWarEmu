@@ -147,8 +147,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\FrameWork\FrameWork.csproj">
-      <Project>{D5C98F3A-D5D2-4AED-A5A7-06D2DE095095}</Project>
+    <ProjectReference Include="..\FrameWork\FrameWork.csproj">
+      <Project>{d5c98f3a-d5d2-4aed-a5a7-06d2de095095}</Project>
       <Name>FrameWork</Name>
     </ProjectReference>
   </ItemGroup>
