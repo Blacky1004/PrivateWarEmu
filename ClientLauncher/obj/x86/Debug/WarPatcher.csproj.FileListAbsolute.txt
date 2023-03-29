@@ -1,0 +1,11 @@
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\bin\Debug\Patcher.exe.config
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\bin\Debug\Patcher.exe
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\bin\Debug\Patcher.pdb
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\WarPatcher.csproj.AssemblyReference.cache
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\WarPatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\WarEmu.Form1.resources
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\Patcher.Properties.Resources.resources
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\WarPatcher.csproj.GenerateResource.cache
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\WarPatcher.csproj.CoreCompileInputs.cache
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\Patcher.exe
+C:\Users\jenss\Downloads\Trunk\ClientLauncher\obj\x86\Debug\Patcher.pdb
